@@ -1,1 +1,1 @@
-# odin-recipes
+Este proyecto es una página web básica de recetas para practicar HTML como parte de The Odin Project.
